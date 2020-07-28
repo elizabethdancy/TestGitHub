@@ -6,7 +6,7 @@
 package testgithub;
 
 /**
- * new comment
+ * second comment
  * @author dancye
  */
 public class TestGitHub {
